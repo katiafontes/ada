@@ -7,9 +7,14 @@ h1 {
     text-align: center;
 }
 
-p {
+.texto1 {
     text-align: center;
     color:rgb(70, 6, 66);
     font-size: 20px;
 }
 
+.texto2 {
+    text-align: center;
+    color:rgb(239, 98, 171);
+    font-size: 20px;
+}
